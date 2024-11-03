@@ -1,0 +1,7 @@
+C:\Users\Dilber Taştan\source\repos\patikadev_c#\döngüler_for_loop\bin\Debug\döngüler_for_loop.exe.config
+C:\Users\Dilber Taştan\source\repos\patikadev_c#\döngüler_for_loop\bin\Debug\döngüler_for_loop.exe
+C:\Users\Dilber Taştan\source\repos\patikadev_c#\döngüler_for_loop\bin\Debug\döngüler_for_loop.pdb
+C:\Users\Dilber Taştan\source\repos\patikadev_c#\döngüler_for_loop\obj\Debug\döngüler_for_loop.csproj.AssemblyReference.cache
+C:\Users\Dilber Taştan\source\repos\patikadev_c#\döngüler_for_loop\obj\Debug\döngüler_for_loop.csproj.CoreCompileInputs.cache
+C:\Users\Dilber Taştan\source\repos\patikadev_c#\döngüler_for_loop\obj\Debug\döngüler_for_loop.exe
+C:\Users\Dilber Taştan\source\repos\patikadev_c#\döngüler_for_loop\obj\Debug\döngüler_for_loop.pdb
